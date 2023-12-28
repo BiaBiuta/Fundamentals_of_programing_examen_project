@@ -1,0 +1,7 @@
+1,bucsa,12,metalic,12:02:23
+2,hajdi,13,auriu,13:03:23
+3,haide,16,albastru,13:03:23
+4,sigur,15,lala,13:03:22
+5,vrem,15,lala,13:03:23
+6,lastone,16,fin,16:03:2022
+7,fdgdhg,17,gdh,13:04:2023
